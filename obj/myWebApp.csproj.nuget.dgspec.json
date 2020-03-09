@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Jerrony\\source\\repos\\.net-project\\myWebApp.csproj": {}
+    "\\\\hcfs2\\home_students$\\1870802\\Desctop_and_web_pevelopper\\Server_side_Scripting\\myWebApp\\myWebApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Jerrony\\source\\repos\\.net-project\\myWebApp.csproj": {
+    "\\\\hcfs2\\home_students$\\1870802\\Desctop_and_web_pevelopper\\Server_side_Scripting\\myWebApp\\myWebApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Jerrony\\source\\repos\\.net-project\\myWebApp.csproj",
+        "projectUniqueName": "\\\\hcfs2\\home_students$\\1870802\\Desctop_and_web_pevelopper\\Server_side_Scripting\\myWebApp\\myWebApp.csproj",
         "projectName": "myWebApp",
-        "projectPath": "C:\\Users\\Jerrony\\source\\repos\\.net-project\\myWebApp.csproj",
-        "packagesPath": "C:\\Users\\Jerrony\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Jerrony\\source\\repos\\.net-project\\obj\\",
+        "projectPath": "\\\\hcfs2\\home_students$\\1870802\\Desctop_and_web_pevelopper\\Server_side_Scripting\\myWebApp\\myWebApp.csproj",
+        "packagesPath": "C:\\Users\\1870802\\.nuget\\packages\\",
+        "outputPath": "\\\\hcfs2\\home_students$\\1870802\\Desctop_and_web_pevelopper\\Server_side_Scripting\\myWebApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Jerrony\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\1870802\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -58,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.102\\RuntimeIdentifierGraph.json"
         }
       }
     }
